@@ -1,4 +1,5 @@
 # KeyVal - Left Hand Keyboard
+![KeyVal](/Img/TopShot.18.png)
 This repository is the summation of KeyVal left hand keyboard 
 https://www.instagram.com/keyval_pad/?hl=en
 
@@ -9,4 +10,6 @@ Software Used:
 
 Implemented with ATMEGA32U4-AU Microchip.
 
-
+## Process
+![KeyVal](/Img/Sketch.png)
+![KeyVal](/Img/BoardPCB.png)
